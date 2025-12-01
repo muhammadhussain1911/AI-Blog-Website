@@ -8,7 +8,7 @@
 
 **A modern, AI-powered blog platform built with React and Node.js**
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🐛 Report Bug](#contributing) • [💡 Request Feature](#contributing)
+[🚀 Live Demo](https://ai-blog-client-rho.vercel.app/) • [🐛 Report Bug](#-contributing) • [💡 Request Feature](#-contributing)
 
 </div>
 
@@ -44,7 +44,6 @@
 - **🖼️ Image Management** - ImageKit integration for optimized image handling
 - **💬 Comment System** - Interactive commenting with moderation
 - **🏷️ Category Management** - Organize blogs by categories (Technology, Startup, Lifestyle, Finance)
-- **📈 SEO Optimized** - Meta tags and structured data for better search visibility
 - **⚡ Fast Performance** - Optimized with Vite and modern React patterns
 - **🔄 Real-time Updates** - Live content updates without page refresh
 
@@ -132,7 +131,7 @@ AI-Blog-Website/
 
 ### 🚀 One-Command Setup
 ```bash
-git clone https://github.com/yourusername/ai-blog-website.git
+git clone https://github.com/muhammadhussain1911/AI-Blog-Website.git
 cd ai-blog-website
 npm run setup
 ```
@@ -143,7 +142,7 @@ npm run setup
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-blog-website.git
+git clone https://github.com/muhammadhussain1911/AI-Blog-Website.git
 cd ai-blog-website
 ```
 
@@ -165,7 +164,7 @@ Create `.env` files in both `server` and `client` directories:
 #### Server `.env`
 ```env
 # Database
-MONGODB_URI=mongodb://localhost:27017/ai-blog-website
+MONGODB_URI=your_mongodb_uri
 
 # JWT Secret
 JWT_SECRET=your-super-secret-jwt-key
@@ -253,9 +252,7 @@ npm run dev
 
 ### 🤖 AI Integration
 The platform uses Google Gemini AI to:
-- Generate blog content based on prompts
-- Suggest improvements to existing content
-- Create SEO-optimized titles and descriptions
+- Generate blog content based on Title and subtitle
 
 ---
 
@@ -264,13 +261,14 @@ The platform uses Google Gemini AI to:
 <div align="center">
 
 ### 🏠 Homepage
-![Homepage](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Homepage+Screenshot)
+![Homepage](https://ik.imagekit.io/ku1nab63e/AIBLOG1.png)
 
 ### 📝 Blog Editor
-![Blog Editor](https://via.placeholder.com/800x400/10B981/FFFFFF?text=AI+Blog+Editor)
+![Blog Editor](https://ik.imagekit.io/ku1nab63e/AIBlog5.png)
 
 ### 📊 Admin Dashboard
-![Dashboard](https://via.placeholder.com/800x400/F59E0B/FFFFFF?text=Admin+Dashboard)
+![Dashboard](https://ik.imagekit.io/ku1nab63e/AIBlog3.png)
+![Dashboard](https://ik.imagekit.io/ku1nab63e/AIBlog4.png)
 
 </div>
 
@@ -344,12 +342,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
 
 ### **Muhammad Hussain**
-*Full Stack Developer & AI Enthusiast*
+*Full Stack Web and App Developer & AI Enthusiast*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.hussainappdeveloper.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-hussain)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-hussain)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@hussainappdeveloper.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhussain1911)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadhussain1911)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourownwebdeveloper@gmail.com)
 
 </div>
 
