@@ -1,6 +1,6 @@
 
 import facebook_icon from './facebook_icon.svg'
-import googlePlus_icon from './googlePlus_icon.svg'
+import googlePlus_icon from './googleplus_icon.svg'
 import twitter_icon from './twitter_icon.svg'
 import logo from './logo.svg'
 import arrow from './arrow.svg'
