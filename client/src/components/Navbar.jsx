@@ -6,7 +6,7 @@ const Navbar = () => {
     const {navigate, token} = useAppContext();
   return (
     <>
-        <div className='flex justify-between items-center py-5 mx-8 sm:mx-20 xl:mx-32'>
+        <div className='flex justify-between items-center py-2 mx-8 sm:mx-20 xl:mx-32'>
             <img src={assets.logo} alt="logo" />
             <button onClick={()=> {
               if (token) {
